@@ -455,9 +455,9 @@ def main():
         st.subheader("Contact Information")
         st.write("""
         For questions or suggestions about this application:
-        - 📧 Email: contact@roadaccidentprediction.in
+        - 📧 Email: ankit3032005@gmail.com
         - 🌐 Website: www.roadaccidentprediction.in
-        - 📱 Phone: +91-XXX-XXX-XXXX
+        - 📱 Phone: +91-8235542245
         """)
 
 if __name__ == "__main__":
